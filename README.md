@@ -7,12 +7,12 @@ I'm interested in software development, web applications, APIs, intelligent syst
 ## 🛠️ Technologies
 
 **Programming:**  
-Java · JavaScript · C · TypeScript
+Java · JavaScript · C 
 
 **Web Development:**  
 React · HTML · CSS · Vite
 
-**APIs & Backend:**  
+**APIs & Cloud:**  
 REST APIs · Firebase · Firestore · Google Calendar API · Mapbox API · OpenAI API
 
 **Systems & Networking:**  
@@ -25,6 +25,12 @@ Git · GitHub
 
 ### CozyFocus
 React-based study planning and productivity application integrating Google Calendar, Mapbox, OpenAI and Firebase.
+
+### SL Table – Web-Based Public Transport Application
+
+Group project developed at KTH as part of a web development course. Contributed to backend development, integration between application components and collaborative development.
+
+[View project →](https://gits-15.sys.kth.se/lukaa/SL-tabell)
 
 ### Interactive Game
 C-based embedded systems project developed for the Dtek-V board, involving memory-mapped I/O, hardware interaction and game logic.
@@ -42,7 +48,7 @@ Civil Engineering in Information Technology
 
 - Studying Information Technology at KTH
 - Preparing for my Bachelor's degree project in Spring 2027
-- Exploring software development and technical project opportunities
+- Building experience through software development projects
 
 ## 🔗 Links
 
